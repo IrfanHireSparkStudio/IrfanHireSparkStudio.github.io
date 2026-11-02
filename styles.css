@@ -90,3 +90,6 @@ footer a { color: #fff; }
   .hero h1 { font-size: 1.8rem; }
   .topnav { margin-left: 0; }
 }
+
+/* Template preview image above the ready-template button */
+.template-preview { display: block; width: 100%; max-width: 560px; height: auto; border: 1px solid var(--border); border-radius: 12px; margin: 12px 0; }
