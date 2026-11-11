@@ -93,3 +93,12 @@ footer a { color: #fff; }
 
 /* Template preview image above the ready-template button */
 .template-preview { display: block; width: 100%; max-width: 560px; height: auto; border: 1px solid var(--border); border-radius: 12px; margin: 12px 0; }
+
+/* Featured Resumes */
+.featured { padding: 24px 0 48px; }
+.featured h2 { font-size: 1.6rem; margin-bottom: 4px; }
+.featured-card { padding: 0 0 20px; overflow: hidden; }
+.featured-card img { display: block; width: 100%; height: auto; }
+.featured-card h3, .featured-card .meta, .featured-card p { margin-left: 20px; margin-right: 20px; }
+.featured-card h3 { margin-top: 16px; }
+.featured-card .tag { margin-left: 20px; margin-top: 16px; }
