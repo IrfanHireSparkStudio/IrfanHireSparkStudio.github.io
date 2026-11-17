@@ -96,6 +96,18 @@ footer a { color: #fff; }
 
 /* Featured Resumes */
 .featured { padding: 24px 0 48px; }
+
+/* International routes */
+.routes { padding: 24px 0 48px; }
+.routes h2 { font-size: 1.6rem; margin-bottom: 4px; }
+.video-wrap { max-width: 720px; margin: 20px 0; }
+.video-wrap video { width: 100%; height: auto; border-radius: 12px; border: 1px solid var(--border); display: block; background: #000; }
+.route-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 24px; }
+.route-card { border: 1px solid var(--border); border-radius: 12px; padding: 20px; background: #fff; }
+.route-card h3 { margin-top: 0; }
+.fees-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+.fees-table th, .fees-table td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
+.fees-table th { background: var(--light); }
 .featured h2 { font-size: 1.6rem; margin-bottom: 4px; }
 .featured-card { padding: 0 0 20px; overflow: hidden; }
 .featured-card img { display: block; width: 100%; height: auto; }
